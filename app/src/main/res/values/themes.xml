@@ -5,5 +5,5 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.SplashScreen" parent="Base.Theme.SplashScreen"/>
+    <style name="Theme.mySplashScreen" parent="Base.Theme.SplashScreen"/>
 </resources>
